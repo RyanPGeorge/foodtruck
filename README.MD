@@ -6,7 +6,7 @@
     * `node`
     * `request`
     * `readline`
-* Run the following command in Terminal
+* Run the following command in Terminal:
     * `node FoodTruckFinder.js`
 * You will be given information on the current time and the number of trucks currently open.
 * You will be given a list of the first ten open trucks, sorted alphabetically.
